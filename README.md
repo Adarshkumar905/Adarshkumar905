@@ -11,8 +11,6 @@ Email Me 👉 ✉️ **adarshboy.kumar42022@gmail.com** For Collaboration/Projec
 - 📫 **How to reach me:** adarshboy.kumar42022@gmail.com
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 - 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adarshkumar905&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//adarsh-kumar-383860277) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adarshboy.kumar42022@gmail.com) 
